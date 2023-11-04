@@ -9,7 +9,8 @@ import java.util.Scanner;
 
 public class BinarySearch{
     public static void main(String[] args){
-        int[] elementArray = {2, 5, 8, 12, 16, 23, 38, 56, 72, 91}; //The array needs to be sorted in ascending order first in order to work properly.
+        int[] elementArray = {5, 2, 23, 38, 56, 16, 91, 72, 12, 8}; 
+        Arrays.sort(elementArray); //The array needs to be sorted in ascending order first in order to work properly.
 
 
         System.out.println("Numbers: " + Arrays.toString(elementArray));
