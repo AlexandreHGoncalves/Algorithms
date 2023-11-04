@@ -8,4 +8,4 @@ You're free to use and study them, have fun!
 ## Algorithms
 List of the algorithms in this repository, and the language I wrote them in. All algorithms have comments on them, explaining their logic.
 ### Search Algorithms
-- **Binary Search** - *Java*
+- <a href="https://github.com/AlexandreHGoncalves/Algorithms/blob/main/Search/BinarySearch.java" target="_blank"> <strong>Binary Search</strong></a> - <em>Java</em>
